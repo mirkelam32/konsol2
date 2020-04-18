@@ -1,0 +1,7 @@
+C:\Users\Abdullah Mirkelam\source\repos\konsol\konsol\bin\Debug\konsol.exe.config
+C:\Users\Abdullah Mirkelam\source\repos\konsol\konsol\bin\Debug\konsol.exe
+C:\Users\Abdullah Mirkelam\source\repos\konsol\konsol\bin\Debug\konsol.pdb
+C:\Users\Abdullah Mirkelam\source\repos\konsol\konsol\obj\Debug\konsol.csprojAssemblyReference.cache
+C:\Users\Abdullah Mirkelam\source\repos\konsol\konsol\obj\Debug\konsol.csproj.CoreCompileInputs.cache
+C:\Users\Abdullah Mirkelam\source\repos\konsol\konsol\obj\Debug\konsol.exe
+C:\Users\Abdullah Mirkelam\source\repos\konsol\konsol\obj\Debug\konsol.pdb
